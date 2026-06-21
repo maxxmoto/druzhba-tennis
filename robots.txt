@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://druzhba-tennis.ru/sitemap.xml
+Sitemap: https://maxxmoto.github.io/druzhba-tennis/sitemap.xml
